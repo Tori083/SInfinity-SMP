@@ -12,6 +12,7 @@ This is my SMP server also known as SInfinty SMP. Huy is cute btw
         https://www.radmin-vpn.com/
 
 - Step 3: Join Radmin server:
+- 
     -> Emojis-MC
       ->  123456
         
